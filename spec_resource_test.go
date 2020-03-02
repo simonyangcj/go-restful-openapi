@@ -4,7 +4,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	restful "github.com/emicklei/go-restful"
+	restful "github.com/simonyangcj/go-restful"
 )
 
 func TestBuildSwagger(t *testing.T) {

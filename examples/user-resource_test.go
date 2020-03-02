@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/emicklei/go-restful"
-	"github.com/emicklei/go-restful-openapi"
+	"github.com/simonyangcj/go-restful"
+	"github.com/simonyangcj/go-restful-openapi"
 	spec2 "github.com/go-openapi/spec"
 	"io/ioutil"
 	"reflect"
